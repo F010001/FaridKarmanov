@@ -25,6 +25,6 @@
 
 ![FaridKarmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridKarmanov&show_icons=true&theme=radical&count_private=true)
 
-  <a align="center" href="https://github.com/PrimkY">
+  <a align="center" href="https://github.com/FaridKarmanov">
      <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d0c240e8-8915-4654-9d22-ee7cea845f44&show_icons=true&hide_border=true&theme=radical&layout=compact" />
   </a>></a>
