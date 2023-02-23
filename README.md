@@ -21,7 +21,6 @@
 
 ### Contact with me
 
-[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)]((mailto:faridkarmanov@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://karmanov0.t.me)
 
 ![FaridKarmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridKarmanov&show_icons=true&theme=radical&count_private=true)
