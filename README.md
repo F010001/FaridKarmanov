@@ -25,6 +25,4 @@
 
 ![FaridKarmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridKarmanov&show_icons=true&theme=radical&count_private=true)
 
-  <a align="center" href="https://github.com/FaridKarmanov">
-     <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FaridKarmanov&show_icons=true&hide_border=true&theme=radical&layout=compact" />
-  </a>
+<a href="https://wakatime.com/@d0c240e8-8915-4654-9d22-ee7cea845f44"><img src="https://wakatime.com/badge/user/d0c240e8-8915-4654-9d22-ee7cea845f44.svg" alt="Total time coded since Feb 23 2023" /></a>
